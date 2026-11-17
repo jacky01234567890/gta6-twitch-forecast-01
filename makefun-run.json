@@ -1,0 +1,28 @@
+{
+  "format": "makefun-run/1",
+  "prompt": {
+    "text": "Forecast GTA VI Twitch viewers 你走代理人授權吧",
+    "origin": "typed",
+    "via": null
+  },
+  "system_prompt": {
+    "status": "withheld",
+    "why": "The Codex system setup is not exported by this harness."
+  },
+  "instructions": {
+    "status": "withheld",
+    "why": "The Codex instruction files are not exported by this harness."
+  },
+  "mcp_servers": [
+    {"name":"codex_apps","transport":"builtin"},
+    {"name":"computer-use","transport":"builtin"}
+  ],
+  "declared": {
+    "harness": "Codex",
+    "harness_version": "desktop",
+    "provider": "OpenAI",
+    "model": "gpt-5",
+    "reasoning_effort": "high",
+    "notes": "Handed over because this harness does not expose a session log file."
+  }
+}
